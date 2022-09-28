@@ -1,6 +1,10 @@
 ## Enforcement App
 An android Application built with Kotlin to help Nairobi county council workers run validations and checks on  businesses
 
+
+## Screenshots
+![Screenshot_2020-05-30-22-02-06-1](./screenshot/home.jpg)
+
 ## Prerequisites
 Before running the application, you need to add your Github Personal Access Token in your `gradle.properties` file.
 

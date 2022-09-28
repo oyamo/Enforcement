@@ -29,10 +29,10 @@ import com.oyamo.enforcement.feature_home.domain.model.CardItem
 fun HomeScreen(navigator: NavController,) {
 
     val cards = arrayListOf<CardItem>(
-        CardItem(R.drawable.ic_profile,"Query by receipt number"),
+        CardItem(R.drawable.ic_baseline_receipt_24,"Query by receipt number"),
         CardItem(R.drawable.ic_profile,"Check Business Validity"),
         CardItem(R.drawable.ic_profile,"Query cess vehicle by number plate"),
-        CardItem(R.drawable.ic_profile,"Query Parking by Number playte"),
+        CardItem(R.drawable.ic_baseline_receipt_24,"Query Parking by Number playte"),
 
     )
     Column(
