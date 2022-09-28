@@ -1,4 +1,4 @@
-package com.oyamo.enforcement.presentation.theme
+package com.oyamo.enforcement.core.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

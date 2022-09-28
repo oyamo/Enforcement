@@ -1,4 +1,4 @@
-package com.oyamo.enforcement.presentation.theme
+package com.oyamo.enforcement.core.presentation.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
